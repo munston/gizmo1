@@ -1,0 +1,3 @@
+ChatGPT patch landing experiment
+Date: 2026-08-24
+Purpose: verify branch -> patch -> PR -> merge -> readback
